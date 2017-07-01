@@ -4,6 +4,8 @@ author = 'Pride and Prejudice aka PapstJL4U'
 from CharacterData import shoutout
 import CharacterValues as cv
 
+_source = "All code is based on http://kalavinka.co.uk/GUILTY/scripts/load_profiles.js"
+
 #Multiplier for how much emotional/subjective qualities affect results -
 #becomes 1.5 if player specifies this is important to him or her"""
 _emotemultiplier = 1
@@ -58,17 +60,6 @@ def playPriority():
     _doubleplay += 0.5
     if _doubleplay == 1.0:
         return True #do doubleplay question aka rushdown and zoning
-    """
-    <div class="question" id="doubleplay">
-<h2>Question 12.5 - You indicated you like both Rushdown and Zoning. What would you think of a character who does both?</h2>
-
-<ul>
-	<li><a href="javascript:void(0)" onclick="doDoublePlay(1);">I'd like that. Please make it a priority.</a></li>
-	<li><a href="javascript:void(0)" onclick="doDoublePlay(0);">Fine by me if I get one.</a></li>
-	<li><a href="javascript:void(0)" onclick="doDoublePlay(-1);">No. I'd prefer playing one or the other.</a></li>
-</ul>
-</div>
-    """
     
 def doZoning(factor):
     """Every character with the respective zoning gets one point increased by its factor"""
