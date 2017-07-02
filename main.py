@@ -13,6 +13,15 @@ _emotemultiplier = 1
 #a positive value. If it's 1, the doubleplay question is revealed."""
 _doubleplay = 0
 
+@property
+def doubleplay(self):
+    """Returns a boolean value. If player should be asked Question 12.5"""
+    #internally _doubleplay is an int to reach a threshold
+    if _doubleplay == 1:
+        return True
+    else:
+        return False
+
 def addEmotion(name):
     """ 'like' question will use this method to increase the rating of a character"""
     global _emotemultiplier
@@ -63,6 +72,8 @@ def playPriority():
     
 def doZoning(factor):
     """Every character with the respective zoning gets one point increased by its factor"""
+    # Values should be 2, 1, 0 and -1
+    # 2 = important, 1 = okay, 0 = no preference, -1 = against
     if factor>0:
         playPriority()
     for char in cv.character_list:
@@ -70,12 +81,15 @@ def doZoning(factor):
 
 def doRushdown(factor):
     """Every character with the respective rushdown gets one point increased by its factor"""
+    # Values should be 2, 1, 0 and -1
+    # 2 = important, 1 = okay, 0 = no preference, -1 = against
     if factor>0:
         playPriority()
     for char in cv.character_list:
         char.points = char.points + factor * char.rushdown
 
 def doDoublePlay(factor):
+    """If the player wants both rushdown and zoning, than this is the function to put value on characters, that do both"""
     for char in cv.character_list:
         if((char.zoning>0) and (char.zoning<1) and (char.rushdown>0) and (char.rushdown<1)):
             char.points = char.points + (char.zoning*factor) + (char.rushdown*factor)

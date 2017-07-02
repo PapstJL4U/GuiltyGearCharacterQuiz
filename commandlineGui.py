@@ -288,8 +288,8 @@ if __name__ == "__main__":
     tenthQ()
     eleventhQ()
     twelvthQ()
-    #if main.playPriority() == True:
-    #    twelvthandahalfQ()
+    if main.doubleplay:
+        twelvthandahalfQ()
     thirdteenthQ()
     fourteenthQ()
     fiveteenthQ()

@@ -1,6 +1,6 @@
 """In this modul, we put the actual values of the characters into the 
 class instances. I hope it is better for readability."""
-version = 'rev1-0.1'
+version = 'rev2-0.1'
 author = 'Pride and Prejudice aka PapstJL4U'
 
 from CharacterData import Character
