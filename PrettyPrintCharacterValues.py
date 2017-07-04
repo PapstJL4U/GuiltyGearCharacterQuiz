@@ -41,7 +41,7 @@ def showstufflong(char):
 
 
 def printtoconsole(long):
-    for char in CV.character_list:
+    for char in CV.character_list_beta:
         if long:
             printme = showstufflong(char)
         else:
@@ -57,7 +57,7 @@ def generatetextfile(long):
     else:
         file = open("genfiles/shortCharacterData.txt", mode='w')
 
-    for char in CV.character_list:
+    for char in CV.character_list_beta:
         if long:
             printme = showstufflong(char)
         else:
@@ -69,5 +69,5 @@ def generatetextfile(long):
 
 
 if __name__ == "__main__":
-    printtoconsole(False)
-    generatetextfile(False)
+    printtoconsole(True)
+    generatetextfile(True)

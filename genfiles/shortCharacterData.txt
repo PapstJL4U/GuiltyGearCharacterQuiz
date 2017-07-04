@@ -228,3 +228,23 @@ Reversaltype:Meter  Stance:No  Vortex:Projectile
 Mixuptypes:HighLow  1-P Game:Kinda  and has SetPlay:Neutral
 Chargemoves:None  Tyes of Projectiles:Special  default Points(0):0.0
 ================================================================================
+The fullname is: Baiken
+charname: baiken
+Tier:Low  Playstyle:Rewarding  Skilllevel:Mid
+Zoning:0.15  Rushdown:0.5  Focus:Neutral
+Range:Short  Gender:Female  Priority:Damage, Utility
+Reliance:Normal  Resource:Normal  Moral:Grey
+Reversaltype:Meter  Stance:Yes  Vortex:Basic
+Mixuptypes:LeftRight, CGrab, HighLow  1-P Game:No  and has SetPlay:Knockdown
+Chargemoves:None  Tyes of Projectiles:Limited  default Points(0):0.0
+================================================================================
+The fullname is: Answer
+charname: answer
+Tier:Low  Playstyle:Special  Skilllevel:Old
+Zoning:0.5  Rushdown:0.5  Focus:Combos, Neutral 
+Range:All  Gender:Male  Priority:Utility
+Reliance:Reliant  Resource:Reliant  Moral:Good
+Reversaltype:?  Stance:Yes  Vortex:Projectile
+Mixuptypes:HighLow, LeftRight  1-P Game:No  and has SetPlay:Knockdown
+Chargemoves:None  Tyes of Projectiles:Limited, Special  default Points(0):0.0
+================================================================================

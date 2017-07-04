@@ -243,5 +243,10 @@ character_list = (sol, ky, may, faust, millia, chipp, ino, axl, venom, zato,
                   slayer, potemkin, ram, bedman, sin, elphelt, leo, jacko, jam,
                   johnny, kum, raven, dizzy)
 
+character_list_beta = (sol, ky, may, faust, millia, chipp, ino, axl, venom, zato,
+                       slayer, potemkin, ram, bedman, sin, elphelt, leo, jacko, jam,
+                       johnny, kum, raven, dizzy, _baiken, _answer)
+
+
 if __name__ == "__main__":
     print("Possible Error, This is an import only modul")
