@@ -109,28 +109,28 @@ def doDoublePlay(factor):
 def playerFocus(focus):
     """checks if focus is in the list of focuses of each character"""
     for char in cv.character_list:
-        if focus in char.focus.split(","):
+        if focus in char.focus:
             char.points += 1
 
 
 def playerRange(ran):
     """Every character with the respective ranges gets one point, chars can have more than one range"""
     for char in cv.character_list:
-        if ran in char.range.split(","):
+        if ran in char.range:
             char.points += 1
 
 
 def playerGender(gender, factor):
     """Every character with the respective gender gets one point increased by a factor between 0 and 2"""
     for char in cv.character_list:
-        if gender in char.gender.split(","):
+        if gender in char.gender:
             char.points = char.points + factor
 
 
 def playerCharge(charge):
     """Every character with the respective charge usage gets one point"""
     for char in cv.character_list:
-        if charge in char.charname.split(","):
+        if charge in char.charname:
             char.points += 1
 
 
@@ -142,7 +142,7 @@ def playerGimmick(gimmick):
 def playerMixups(mixup):
     """Every character with the respective mix gets one point, chars can have more than one mixup type"""
     for char in cv.character_list:
-        if mixup in char.mixup.split(","):
+        if mixup in char.mixup:
             char.points += 1
 
 
@@ -163,14 +163,14 @@ def playerOne(oneplayer):
 def playerPriority(priority):
     """Every character with the respective priority (like damage, utility, mobility,...) gets one point"""
     for char in cv.character_list:
-        if priority in char.priority.split(","):
+        if priority in char.priority:
             char.points += 1
 
 
 def playerProjectile(projectile):
     """Every character with the respective projectil playstyle gets one point"""
     for char in cv.character_list:
-        if projectile in char.projectile.split(","):
+        if projectile in char.projectile:
             char.points += 1
 
 
@@ -198,7 +198,7 @@ def playerReversal(reversal):
 def playerSetPlay(setplay):
     """Every character with the respective setply type gets one point"""
     for char in cv.character_list:
-        if setplay in char.setplay.split(","):
+        if setplay in char.setplay:
             char.points += 1
 
 
