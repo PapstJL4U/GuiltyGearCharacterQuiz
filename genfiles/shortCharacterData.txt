@@ -1,0 +1,230 @@
+The fullname is: Sol Badguy
+charname: sol
+Tier:High  Playstyle:Prepared  Skilllevel:New
+Zoning:0.0  Rushdown:1.0  Focus:Condition, Damage
+Range:Short, Mid  Gender:Male  Priority:Rounded
+Reliance:Normal  Resource:Normal  Moral:Grey
+Reversaltype:DP  Stance:No  Vortex:Basic
+Mixuptypes:CGrab, RISC  1-P Game:Kinda  and has SetPlay:None
+Chargemoves:None  Tyes of Projectiles:Limited  default Points(0):0.0
+================================================================================
+The fullname is: Ky Kiske
+charname: ky
+Tier:High  Playstyle:Prepared  Skilllevel:New
+Zoning:0.5  Rushdown:0.5  Focus:Neutral, Condition
+Range:All  Gender:Male  Priority:Rounded
+Reliance:Mid  Resource:Mid  Moral:Good
+Reversaltype:DP  Stance:No  Vortex:Projectile
+Mixuptypes:FrameTraps  1-P Game:No  and has SetPlay:Knockdown
+Chargemoves:None  Tyes of Projectiles:Standard  default Points(0):0.0
+================================================================================
+The fullname is: May
+charname: may
+Tier:Mid  Playstyle:Prepared  Skilllevel:Mid
+Zoning:0.25  Rushdown:0.75  Focus:Combos
+Range:Mid  Gender:Female  Priority:Utility, Mobility
+Reliance:Reliant  Resource:Reliant  Moral:Neutral
+Reversaltype:Meter  Stance:No  Vortex:Projectile
+Mixuptypes:CGrab, HighLow  1-P Game:No  and has SetPlay:Neutral, Knockdown
+Chargemoves:Lots  Tyes of Projectiles:Limited, Special  default Points(0):0.0
+================================================================================
+The fullname is: Faust
+charname: faust
+Tier:Mid  Playstyle:Special  Skilllevel:new
+Zoning:1.0  Rushdown:0.0  Focus:Neutral
+Range:Mid, Long  Gender:Male  Priority:Utility
+Reliance:Reliant  Resource:Reliant  Moral:Neutral
+Reversaltype:Meter  Stance:No  Vortex:Basic
+Mixuptypes:Unblockable  1-P Game:No  and has SetPlay:Neutral
+Chargemoves:None  Tyes of Projectiles:Limited, Special  default Points(0):0.0
+================================================================================
+The fullname is: Millia Rage
+charname: millia
+Tier:High  Playstyle:Special  Skilllevel:Mid
+Zoning:0.0  Rushdown:1.0  Focus:Mixup, Neutral
+Range:Mid, Short  Gender:Female  Priority:Mobility, Utility
+Reliance:Mid  Resource:Mid  Moral:Grey
+Reversaltype:Meter  Stance:No  Vortex:Million
+Mixuptypes:HighLow  1-P Game:Yes  and has SetPlay:Knockdown
+Chargemoves:None  Tyes of Projectiles:Special, Limited  default Points(0):0.0
+================================================================================
+The fullname is: Chipp Zanuff
+charname: chipp
+Tier:Mid  Playstyle:Prepared  Skilllevel:Old
+Zoning:0.5  Rushdown:0.5  Focus:Condition, Neutral
+Range:Short  Gender:Male  Priority:Mobility, Utility
+Reliance:Normal  Resource:Normal  Moral:Good
+Reversaltype:DP  Stance:No  Vortex:Basic
+Mixuptypes:LeftRight, HighLow  1-P Game:Kinda  and has SetPlay:Basic
+Chargemoves:None  Tyes of Projectiles:Limited  default Points(0):0.0
+================================================================================
+The fullname is: I-No
+charname: ino
+Tier:Mid  Playstyle:Rewarding  Skilllevel:Old
+Zoning:0.0  Rushdown:1.0  Focus:Mixup, Damage
+Range:Short  Gender:Female  Priority:Mobility
+Reliance:Mid  Resource:Mid  Moral:Evil
+Reversaltype:Meter  Stance:No  Vortex:Million
+Mixuptypes:HighLow  1-P Game:Yes  and has SetPlay:Neutral
+Chargemoves:None  Tyes of Projectiles:Special  default Points(0):0.0
+================================================================================
+The fullname is: Axl Low
+charname: axl
+Tier:Mid  Playstyle:Special  Skilllevel:Mid
+Zoning:1.0  Rushdown:0.0  Focus:Neutral, Condition
+Range:Mid, Long  Gender:Male  Priority:Rounded
+Reliance:Normal  Resource:Normal  Moral:Neutral
+Reversaltype:DP  Stance:Yes  Vortex:Basic
+Mixuptypes:FrameTraps, RISC  1-P Game:Kinda  and has SetPlay:None
+Chargemoves:Lots  Tyes of Projectiles:None  default Points(0):0.0
+================================================================================
+The fullname is: Venom
+charname: venom
+Tier:Mid  Playstyle:Rewarding  Skilllevel:Old
+Zoning:0.75  Rushdown:0.25  Focus:Neutral
+Range:Mid, Long  Gender:Male  Priority:Utility
+Reliance:Reliant  Resource:Reliant  Moral:Neutral
+Reversaltype:None  Stance:No  Vortex:Projectile
+Mixuptypes:RISC  1-P Game:Kinda  and has SetPlay:Neutral
+Chargemoves:Lots  Tyes of Projectiles:Standard, Special  default Points(0):0.0
+================================================================================
+The fullname is: Zato=1
+charname: zato
+Tier:High  Playstyle:Special  Skilllevel:Old
+Zoning:0.25  Rushdown:0.75  Focus:Combos, Mixup
+Range:All  Gender:Male  Priority:Utility, Damage
+Reliance:Reliant  Resource:Reliant  Moral:Neutral
+Reversaltype:Meter  Stance:Yes  Vortex:Million
+Mixuptypes:Unblockable, CGrab, RISC  1-P Game:Yes  and has SetPlay:Neutral
+Chargemoves:None  Tyes of Projectiles:Special  default Points(0):0.0
+================================================================================
+The fullname is: Slayer
+charname: slayer
+Tier:Low  Playstyle:Rewarding  Skilllevel:Old
+Zoning:0.0  Rushdown:1.0  Focus:Combos
+Range:Short  Gender:Male  Priority:Damage, Mobility
+Reliance:Normal  Resource:Normal  Moral:Grey
+Reversaltype:Meter  Stance:No  Vortex:Basic
+Mixuptypes:LeftRight, FrameTrap  1-P Game:No  and has SetPlay:None
+Chargemoves:None  Tyes of Projectiles:None  default Points(0):0.0
+================================================================================
+The fullname is: Potemkin
+charname: potemkin
+Tier:Low  Playstyle:Rewarding  Skilllevel:Old
+Zoning:0.0  Rushdown:0.0  Focus:Condition
+Range:Short  Gender:Male  Priority:HP, Damage
+Reliance:Normal  Resource:Normal  Moral:Neutral
+Reversaltype:Meter  Stance:No  Vortex:Basic
+Mixuptypes:CGrab  1-P Game:No  and has SetPlay:None
+Chargemoves:Lots  Tyes of Projectiles:None  default Points(0):0.0
+================================================================================
+The fullname is: Ramlethal Valentine
+charname: ram
+Tier:Low  Playstyle:Rewarding  Skilllevel:Mid
+Zoning:0.25  Rushdown:0.75  Focus:Mixup
+Range:Mid  Gender:Female  Priority:Utility
+Reliance:Reliant  Resource:Reliant  Moral:Neutral
+Reversaltype:Meter  Stance:Yes  Vortex:Projectile
+Mixuptypes:HighLow, CGrab  1-P Game:Yes  and has SetPlay:Knockdown
+Chargemoves:None  Tyes of Projectiles:Limited  default Points(0):0.0
+================================================================================
+The fullname is: Bedman
+charname: bedman
+Tier:Mid  Playstyle:Special  Skilllevel:Mid
+Zoning:0.25  Rushdown:0.75  Focus:Neutral
+Range:All  Gender:Male  Priority:Utility, Mobility, HP
+Reliance:Reliant  Resource:Reliant  Moral:Evil
+Reversaltype:Meter  Stance:No  Vortex:Projectile
+Mixuptypes:LeftRight, HighLow, RISC  1-P Game:Kinda  and has SetPlay:Neutral, Knockdown
+Chargemoves:Nine  Tyes of Projectiles:Standard  default Points(0):0.0
+================================================================================
+The fullname is: Sin Kiske
+charname: sin
+Tier:High  Playstyle:Prepared  Skilllevel:New
+Zoning:0.0  Rushdown:1.0  Focus:Neutral, Combos
+Range:Mid  Gender:Male  Priority:Damage
+Reliance:Reliant  Resource:Reliant  Moral:Good
+Reversaltype:DP  Stance:No  Vortex:Basic
+Mixuptypes:FrameTraps, RISC  1-P Game:Kinda  and has SetPlay:Knockdown
+Chargemoves:None  Tyes of Projectiles:Special  default Points(0):0.0
+================================================================================
+The fullname is: Elphelt Valentine
+charname: elphelt
+Tier:High  Playstyle:Prepared  Skilllevel:Mid
+Zoning:0.25  Rushdown:0.75  Focus:Neutral, Combos
+Range:All  Gender:Female  Priority:Damage, Utility, Rounded
+Reliance:Mid  Resource:Mid  Moral:Good
+Reversaltype:Meter  Stance:Yes  Vortex:Basic
+Mixuptypes:RISC, FrameTrap, Unblockable  1-P Game:Kinda  and has SetPlay:Knockdown
+Chargemoves:None  Tyes of Projectiles:Special  default Points(0):0.0
+================================================================================
+The fullname is: Leo Whitefang
+charname: leo
+Tier:Low  Playstyle:Rewarding  Skilllevel:New
+Zoning:0.0  Rushdown:1.0  Focus:Combos, Mixup
+Range:Short  Gender:Male  Priority:Damage,HP
+Reliance:Normal  Resource:Normal  Moral:Good
+Reversaltype:DP  Stance:Yes  Vortex:Basic
+Mixuptypes:RISC, LeftRight, HighLow  1-P Game:No  and has SetPlay:None
+Chargemoves:Little  Tyes of Projectiles:Standard  default Points(0):0.0
+================================================================================
+The fullname is: Jack-O Valentine
+charname: jacko
+Tier:Mid  Playstyle:Special  Skilllevel:New
+Zoning:1.0  Rushdown:0.0  Focus:Mixup
+Range:All  Gender:Female  Priority:Utility
+Reliance:Reliant  Resource:Reliant  Moral:Evil
+Reversaltype:DP  Stance:No  Vortex:Basic
+Mixuptypes:RISC, HighLow  1-P Game:Yes  and has SetPlay:Neutral
+Chargemoves:None  Tyes of Projectiles:Limited  default Points(0):0.0
+================================================================================
+The fullname is: Jam Kuradoberi
+charname: jam
+Tier:Low  Playstyle:Rewarding  Skilllevel:Mid
+Zoning:0.0  Rushdown:1.0  Focus:Combos
+Range:Short  Gender:Female  Priority:Damage, Mobility
+Reliance:Mid  Resource:Mid  Moral:Neutral
+Reversaltype:DP  Stance:No  Vortex:Basic
+Mixuptypes:FrameTraps, RISC  1-P Game:No  and has SetPlay:None
+Chargemoves:None  Tyes of Projectiles:None  default Points(0):0.0
+================================================================================
+The fullname is: Johnny Sfondi
+charname: johnny
+Tier:High  Playstyle:Special  Skilllevel:Old
+Zoning:0.0  Rushdown:1.0  Focus:Combos
+Range:Mid  Gender:Male  Priority:Damage
+Reliance:Mid  Resource:Mid  Moral:Good
+Reversaltype:Meter  Stance:Yes  Vortex:Basic
+Mixuptypes:Unblockable, RISC, FrameTraps  1-P Game:Kinda  and has SetPlay:Knockdown
+Chargemoves:None  Tyes of Projectiles:Limited  default Points(0):0.0
+================================================================================
+The fullname is: Kum Haehyun
+charname: kum
+Tier:Low  Playstyle:Prepared  Skilllevel:Mid
+Zoning:0.25  Rushdown:0.75  Focus:Combos, Mixup
+Range:All  Gender:Female  Priority:Damage, HP, Rounded
+Reliance:Normal  Resource:Normal  Moral:Good
+Reversaltype:Meter  Stance:No  Vortex:Projectile
+Mixuptypes:HighLow  1-P Game:No  and has SetPlay:Knockdown
+Chargemoves:None  Tyes of Projectiles:Standard  default Points(0):0.0
+================================================================================
+The fullname is: Raven
+charname: raven
+Tier:High  Playstyle:Prepared  Skilllevel:New
+Zoning:0.5  Rushdown:0.5  Focus:Neutral
+Range:All  Gender:Male  Priority:Rounded
+Reliance:Normal  Resource:Normal  Moral:Evil
+Reversaltype:Meter  Stance:Yes  Vortex:Projectile
+Mixuptypes:CGrab, HighLow  1-P Game:No  and has SetPlay:Knockdown
+Chargemoves:None  Tyes of Projectiles:Standard  default Points(0):0.0
+================================================================================
+The fullname is: Dizzy
+charname: dizzy
+Tier:Low  Playstyle:Special  Skilllevel:Mid
+Zoning:0.75  Rushdown:0.25  Focus:Mixup, Combos
+Range:Long  Gender:Female  Priority:Utility
+Reliance:Reliant  Resource:Reliant  Moral:Good
+Reversaltype:Meter  Stance:No  Vortex:Projectile
+Mixuptypes:HighLow  1-P Game:Kinda  and has SetPlay:Neutral
+Chargemoves:None  Tyes of Projectiles:Special  default Points(0):0.0
+================================================================================

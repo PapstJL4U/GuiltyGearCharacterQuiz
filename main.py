@@ -100,7 +100,8 @@ def doRushdown(factor):
 
 
 def doDoublePlay(factor):
-    """If the player wants both rushdown and zoning, than this is the function to put value on characters, that do both"""
+    """If the player wants both rushdown and zoning,
+    than this is the function to put value on characters, that do both"""
     for char in cv.character_list:
         if ((char.zoning > 0) and (char.zoning < 1) and (char.rushdown > 0) and (char.rushdown < 1)):
             char.points = char.points + (char.zoning * factor) + (char.rushdown * factor)

@@ -1,0 +1,575 @@
+Sol Badguy
+zoning:0.0
+resource:Normal
+priority:Rounded
+focus:Condition, Damage
+vortex:Basic
+gender:Male
+skill:New
+fullname:Sol Badguy
+setplay:None
+oneplayer:Kinda
+combat_range:Short, Mid
+tier:High
+playstyle:Prepared
+reliance:Normal
+reversal:DP
+projectile:Limited
+rushdown:1.0
+points:0.0
+charge:None
+moral:Grey
+mixups:CGrab, RISC
+charname:sol
+stances:No
+================================================================================
+Ky Kiske
+zoning:0.5
+resource:Resource
+priority:Rounded
+focus:Neutral, Condition
+vortex:Projectile
+gender:Male
+skill:New
+fullname:Ky Kiske
+setplay:Knockdown
+oneplayer:No
+combat_range:All
+tier:High
+playstyle:Prepared
+reliance:Mid
+reversal:DP
+projectile:Standard
+rushdown:0.5
+points:0.0
+charge:None
+moral:Good
+mixups:FrameTraps
+charname:ky
+stances:No
+================================================================================
+May
+zoning:0.25
+resource:Resource
+priority:Utility, Mobility
+focus:Combos
+vortex:Projectile
+gender:Female
+skill:Mid
+fullname:May
+setplay:Neutral, Knockdown
+oneplayer:No
+combat_range:Mid
+tier:Mid
+playstyle:Prepared
+reliance:Reliant
+reversal:Meter
+projectile:Limited, Special
+rushdown:0.75
+points:0.0
+charge:Lots
+moral:Neutral
+mixups:CGrab, HighLow
+charname:may
+stances:No
+================================================================================
+Faust
+zoning:1.0
+resource:Resource
+priority:Utility
+focus:Neutral
+vortex:Basic
+gender:Male
+skill:new
+fullname:Faust
+setplay:Neutral
+oneplayer:No
+combat_range:Mid, Long
+tier:Mid
+playstyle:Special
+reliance:Reliant
+reversal:Meter
+projectile:Limited, Special
+rushdown:0.0
+points:0.0
+charge:None
+moral:Neutral
+mixups:Unblockable
+charname:faust
+stances:No
+================================================================================
+Millia Rage
+zoning:0.0
+resource:Resource
+priority:Mobility, Utility
+focus:Mixup, Neutral
+vortex:Million
+gender:Female
+skill:Mid
+fullname:Millia Rage
+setplay:Knockdown
+oneplayer:Yes
+combat_range:Mid, Short
+tier:High
+playstyle:Special
+reliance:Mid
+reversal:Meter
+projectile:Special, Limited
+rushdown:1.0
+points:0.0
+charge:None
+moral:Grey
+mixups:HighLow
+charname:millia
+stances:No
+================================================================================
+Chipp Zanuff
+zoning:0.5
+resource:Normal
+priority:Mobility, Utility
+focus:Condition, Neutral
+vortex:Basic
+gender:Male
+skill:Old
+fullname:Chipp Zanuff
+setplay:Basic
+oneplayer:Kinda
+combat_range:Short
+tier:Mid
+playstyle:Prepared
+reliance:Normal
+reversal:DP
+projectile:Limited
+rushdown:0.5
+points:0.0
+charge:None
+moral:Good
+mixups:LeftRight, HighLow
+charname:chipp
+stances:No
+================================================================================
+I-No
+zoning:0.0
+resource:Normal
+priority:Mobility
+focus:Mixup, Damage
+vortex:Million
+gender:Female
+skill:Old
+fullname:I-No
+setplay:Neutral
+oneplayer:Yes
+combat_range:Short
+tier:Mid
+playstyle:Rewarding
+reliance:Mid
+reversal:Meter
+projectile:Special
+rushdown:1.0
+points:0.0
+charge:None
+moral:Evil
+mixups:HighLow
+charname:ino
+stances:No
+================================================================================
+Axl Low
+zoning:1.0
+resource:Normal
+priority:Rounded
+focus:Neutral, Condition
+vortex:Basic
+gender:Male
+skill:Mid
+fullname:Axl Low
+setplay:None
+oneplayer:Kinda
+combat_range:Mid, Long
+tier:Mid
+playstyle:Special
+reliance:Normal
+reversal:DP
+projectile:None
+rushdown:0.0
+points:0.0
+charge:Lots
+moral:Neutral
+mixups:FrameTraps, RISC
+charname:axl
+stances:Yes
+================================================================================
+Venom
+zoning:0.75
+resource:Resource
+priority:Utility
+focus:Neutral
+vortex:Projectile
+gender:Male
+skill:Old
+fullname:Venom
+setplay:Neutral
+oneplayer:Kinda
+combat_range:Mid, Long
+tier:Mid
+playstyle:Rewarding
+reliance:Reliant
+reversal:None
+projectile:Standard, Special
+rushdown:0.25
+points:0.0
+charge:Lots
+moral:Neutral
+mixups:RISC
+charname:venom
+stances:No
+================================================================================
+Zato=1
+zoning:0.25
+resource:Dual
+priority:Utility, Damage
+focus:Combos, Mixup
+vortex:Million
+gender:Male
+skill:Old
+fullname:Zato=1
+setplay:Neutral
+oneplayer:Yes
+combat_range:All
+tier:High
+playstyle:Special
+reliance:Reliant
+reversal:Meter
+projectile:Special
+rushdown:0.75
+points:0.0
+charge:None
+moral:Neutral
+mixups:Unblockable, CGrab, RISC
+charname:zato
+stances:Yes
+================================================================================
+Slayer
+zoning:0.0
+resource:Normal
+priority:Damage, Mobility
+focus:Combos
+vortex:Basic
+gender:Male
+skill:Old
+fullname:Slayer
+setplay:None
+oneplayer:No
+combat_range:Short
+tier:Low
+playstyle:Rewarding
+reliance:Normal
+reversal:Meter
+projectile:None
+rushdown:1.0
+points:0.0
+charge:None
+moral:Grey
+mixups:LeftRight, FrameTrap
+charname:slayer
+stances:No
+================================================================================
+Potemkin
+zoning:0.0
+resource:Normal
+priority:HP, Damage
+focus:Condition
+vortex:Basic
+gender:Male
+skill:Old
+fullname:Potemkin
+setplay:None
+oneplayer:No
+combat_range:Short
+tier:Low
+playstyle:Rewarding
+reliance:Normal
+reversal:Meter
+projectile:None
+rushdown:0.0
+points:0.0
+charge:Lots
+moral:Neutral
+mixups:CGrab
+charname:potemkin
+stances:No
+================================================================================
+Ramlethal Valentine
+zoning:0.25
+resource:Resource
+priority:Utility
+focus:Mixup
+vortex:Projectile
+gender:Female
+skill:Mid
+fullname:Ramlethal Valentine
+setplay:Knockdown
+oneplayer:Yes
+combat_range:Mid
+tier:Low
+playstyle:Rewarding
+reliance:Reliant
+reversal:Meter
+projectile:Limited
+rushdown:0.75
+points:0.0
+charge:None
+moral:Neutral
+mixups:HighLow, CGrab
+charname:ram
+stances:Yes
+================================================================================
+Bedman
+zoning:0.25
+resource:Dual
+priority:Utility, Mobility, HP
+focus:Neutral
+vortex:Projectile
+gender:Male
+skill:Mid
+fullname:Bedman
+setplay:Neutral, Knockdown
+oneplayer:Kinda
+combat_range:All
+tier:Mid
+playstyle:Special
+reliance:Reliant
+reversal:Meter
+projectile:Standard
+rushdown:0.75
+points:0.0
+charge:Nine
+moral:Evil
+mixups:LeftRight, HighLow, RISC
+charname:bedman
+stances:No
+================================================================================
+Sin Kiske
+zoning:0.0
+resource:Dual
+priority:Damage
+focus:Neutral, Combos
+vortex:Basic
+gender:Male
+skill:New
+fullname:Sin Kiske
+setplay:Knockdown
+oneplayer:Kinda
+combat_range:Mid
+tier:High
+playstyle:Prepared
+reliance:Reliant
+reversal:DP
+projectile:Special
+rushdown:1.0
+points:0.0
+charge:None
+moral:Good
+mixups:FrameTraps, RISC
+charname:sin
+stances:No
+================================================================================
+Elphelt Valentine
+zoning:0.25
+resource:Normal
+priority:Damage, Utility, Rounded
+focus:Neutral, Combos
+vortex:Basic
+gender:Female
+skill:Mid
+fullname:Elphelt Valentine
+setplay:Knockdown
+oneplayer:Kinda
+combat_range:All
+tier:High
+playstyle:Prepared
+reliance:Mid
+reversal:Meter
+projectile:Special
+rushdown:0.75
+points:0.0
+charge:None
+moral:Good
+mixups:RISC, FrameTrap, Unblockable
+charname:elphelt
+stances:Yes
+================================================================================
+Leo Whitefang
+zoning:0.0
+resource:Normal
+priority:Damage,HP
+focus:Combos, Mixup
+vortex:Basic
+gender:Male
+skill:New
+fullname:Leo Whitefang
+setplay:None
+oneplayer:No
+combat_range:Short
+tier:Low
+playstyle:Rewarding
+reliance:Normal
+reversal:DP
+projectile:Standard
+rushdown:1.0
+points:0.0
+charge:Little
+moral:Good
+mixups:RISC, LeftRight, HighLow
+charname:leo
+stances:Yes
+================================================================================
+Jack-O Valentine
+zoning:1.0
+resource:Dual
+priority:Utility
+focus:Mixup
+vortex:Basic
+gender:Female
+skill:New
+fullname:Jack-O Valentine
+setplay:Neutral
+oneplayer:Yes
+combat_range:All
+tier:Mid
+playstyle:Special
+reliance:Reliant
+reversal:DP
+projectile:Limited
+rushdown:0.0
+points:0.0
+charge:None
+moral:Evil
+mixups:RISC, HighLow
+charname:jacko
+stances:No
+================================================================================
+Jam Kuradoberi
+zoning:0.0
+resource:Resource
+priority:Damage, Mobility
+focus:Combos
+vortex:Basic
+gender:Female
+skill:Mid
+fullname:Jam Kuradoberi
+setplay:None
+oneplayer:No
+combat_range:Short
+tier:Low
+playstyle:Rewarding
+reliance:Mid
+reversal:DP
+projectile:None
+rushdown:1.0
+points:0.0
+charge:None
+moral:Neutral
+mixups:FrameTraps, RISC
+charname:jam
+stances:No
+================================================================================
+Johnny Sfondi
+zoning:0.0
+resource:Dual
+priority:Damage
+focus:Combos
+vortex:Basic
+gender:Male
+skill:Old
+fullname:Johnny Sfondi
+setplay:Knockdown
+oneplayer:Kinda
+combat_range:Mid
+tier:High
+playstyle:Special
+reliance:Mid
+reversal:Meter
+projectile:Limited
+rushdown:1.0
+points:0.0
+charge:None
+moral:Good
+mixups:Unblockable, RISC, FrameTraps
+charname:johnny
+stances:Yes
+================================================================================
+Kum Haehyun
+zoning:0.25
+resource:Normal
+priority:Damage, HP, Rounded
+focus:Combos, Mixup
+vortex:Projectile
+gender:Female
+skill:Mid
+fullname:Kum Haehyun
+setplay:Knockdown
+oneplayer:No
+combat_range:All
+tier:Low
+playstyle:Prepared
+reliance:Normal
+reversal:Meter
+projectile:Standard
+rushdown:0.75
+points:0.0
+charge:None
+moral:Good
+mixups:HighLow
+charname:kum
+stances:No
+================================================================================
+Raven
+zoning:0.5
+resource:Normal
+priority:Rounded
+focus:Neutral
+vortex:Projectile
+gender:Male
+skill:New
+fullname:Raven
+setplay:Knockdown
+oneplayer:No
+combat_range:All
+tier:High
+playstyle:Prepared
+reliance:Normal
+reversal:Meter
+projectile:Standard
+rushdown:0.5
+points:0.0
+charge:None
+moral:Evil
+mixups:CGrab, HighLow
+charname:raven
+stances:Yes
+================================================================================
+Dizzy
+zoning:0.75
+resource:Resource
+priority:Utility
+focus:Mixup, Combos
+vortex:Projectile
+gender:Female
+skill:Mid
+fullname:Dizzy
+setplay:Neutral
+oneplayer:Kinda
+combat_range:Long
+tier:Low
+playstyle:Special
+reliance:Reliant
+reversal:Meter
+projectile:Special
+rushdown:0.25
+points:0.0
+charge:None
+moral:Good
+mixups:HighLow
+charname:dizzy
+stances:No
+================================================================================

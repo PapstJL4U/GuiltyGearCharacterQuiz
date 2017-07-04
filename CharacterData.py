@@ -208,7 +208,7 @@ class Character:
 
     @property
     def gender(self):
-        "The gender of the character, single value"
+        """The gender of the character, single value"""
         return self._gender
 
     @property
