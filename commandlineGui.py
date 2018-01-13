@@ -14,14 +14,15 @@ the case variable is just a switch case construct
 def firstQ():
     print("Question 1 - What tier of character do you want to play?")
     value = int(input("1:High, 2:Mid, 3:Low, 4:Low+Mid, 5:High+Mid: \n"))
-    if value < 4:
-        main.upgradeTier(value)
+    if value < 4 and  value > 0:
+        case = {1: "High", 2: "Mid", 3: "Low"}
+        main.upgradeTier(case[value])
     elif value == 4:
-        main.upgradeTier(2)
-        main.upgradeTier(3)
+        main.upgradeTier("Low")
+        main.upgradeTier("Mid")
     elif value == 5:
-        main.upgradeTier(1)
-        main.upgradeTier(2)
+        main.upgradeTier("Mid")
+        main.upgradeTier("High")
     else:
         quit()
 

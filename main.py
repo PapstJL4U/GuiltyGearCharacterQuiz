@@ -131,7 +131,7 @@ def playerGender(gender, factor):
 def playerCharge(charge):
     """Every character with the respective charge usage gets one point"""
     for char in cv.character_list:
-        if charge in char.charname:
+        if charge in char.charge:
             char.points += 1
 
 
