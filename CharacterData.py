@@ -64,6 +64,7 @@ def shoutout():
     print("more information can be found under: \
             https://www.reddit.com/r/Guiltygear/comments/5vjabg/which_guilty_\
             gear_xrd_revelator_1_character/")
+    print("javascript source and logic can be found in js_src as a backup")
 
 
 class Character:
